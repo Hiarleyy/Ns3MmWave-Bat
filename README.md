@@ -1,4 +1,8 @@
 # Ns-3-simulations
+
+### Language | Idioma
+[English](README_EN.md) | **Português**
+
 ### Tasks
 [Clique aqui para ver as tasks](Tasks)
 
@@ -63,7 +67,7 @@ Para mais informações sobre o módulo ns3 e possivel encontrar em [mmWave-Ns3]
 ![image](https://github.com/Hiarleyy/Ns-3-simulations/assets/111695591/cd2436ee-cf0b-4368-8434-176ba3ec8eb5)
 
 ## Documentação
-#### [Algoritmo Batman](https://github.com/Hiarleyy/Ns-3-simulations/blob/main/Documenta%C3%A7%C3%A3o/bat.md) || [Simulação NS3 em C++](https://github.com/Hiarleyy/Ns-3-simulations/blob/main/Documenta%C3%A7%C3%A3o/packet5G.md) || [Results 10Nodes](https://github.com/Hiarleyy/Ns-3-simulations/blob/main/Documenta%C3%A7%C3%A3o/10node_results.md) || [Docker NS3-MmWave](https://github.com/Hiarleyy/Ns-3-simulations/blob/main/Documenta%C3%A7%C3%A3o/Docker-MmWave.md)
+#### [Algoritmo Batman](Documentação/bat.md) || [Simulação NS3 em C++](Documentação/packet5G.md) || [Results 10Nodes](Documentação/10node_results.md) || [Docker NS3-MmWave](Documentação/Docker-MmWave.md)
 
 
 ## Contato
