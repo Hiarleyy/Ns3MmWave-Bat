@@ -1,4 +1,8 @@
 # Packet_5G
+
+### Language | Idioma
+[English](packet5G_EN.md) | **Português**
+
 ## Execução do programa
 
 para realizar a execução do programa e fazer as simulações desejadas é necessário instalar as dependências do programa:
